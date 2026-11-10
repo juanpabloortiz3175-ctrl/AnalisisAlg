@@ -52,7 +52,3 @@ src/ordenamiento/
 - Los tres algoritmos ordenan **exactamente los mismos datos** (misma semilla).
 - Para cada algoritmo se compara la curva real contra O(n), O(n log n), O(n^1.5) y O(n²) y se muestra cuál ajusta mejor.
 
-## Entrega
-
-- Código en GitHub: **10 de noviembre**
-- Presentación: **12 de noviembre**
